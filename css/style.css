@@ -1,0 +1,53 @@
+#banner{
+    height: 650px;
+    width: 1350px;
+    background:linear-gradient(rgba(0, 0, 0, 0.308),rgba(0, 0, 0, 0.247)),url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;  
+}
+.two{
+    text-align:center;
+    color: tomato;
+    font-size: 70px;
+     
+    
+}
+ 
+.heading{
+    background-color: yellow;
+    font-size: 100px;
+    color: black;
+    font-weight: 300px; 
+    text-align: center;
+    border: 10px  solid red;
+
+}
+.headingtwo{
+    background-color: rgb(114, 114, 170);
+    font-size: 100px;
+    text-align: center;
+    color: brown;
+    border: 10px solid blue;
+}
+.one{
+    background-color: red;
+    height: 500px;
+    width: 500px;
+    opacity: 1px;
+    border-radius: 50%;
+}
+.onetwo{
+    background-color: red;
+    height: 500px;
+    width: 500px;
+    opacity: 1px;
+    border-radius: 50px;
+}
+.three{
+    width: 500px;
+    height: 40px;
+    font-size: 50px;
+    border-radius: 10px;
+    border: 100%;
+}
+
